@@ -208,6 +208,7 @@ description: |
 
 调研和来源文件在 `references/`：
 
+- `references/cases/`：案例型资料归档目录，用于存放具体项目的多角色分析材料。
 - `references/research/01-corpus.md`：语料范围和来源。
 - `references/research/02-mental-models.md`：心智模型提炼。
 - `references/research/03-expression-dna.md`：表达 DNA。

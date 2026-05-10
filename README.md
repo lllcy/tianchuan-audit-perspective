@@ -32,6 +32,7 @@
 tianchuan-audit-perspective/
 ├─ SKILL.md
 └─ references/
+   ├─ cases/
    ├─ research/
    └─ sources/
 ```
@@ -39,6 +40,7 @@ tianchuan-audit-perspective/
 其中：
 
 - SKILL.md：技能入口文件，宿主通过它识别 skill 的名称、描述、工作流和边界
+- references/cases/：案例型资料，存放具体项目或专项分析，不与通用方法研究混放
 - references/research/：提炼后的语料分析、心智模型、表达 DNA 和工作流
 - references/sources/articles/：39 篇原始审计笔记 Markdown 资料
 
